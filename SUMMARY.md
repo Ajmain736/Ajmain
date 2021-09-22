@@ -6,6 +6,6 @@
   * [মেশিন লার্নিং কি?](machine-learning/introduction.md)
   * [মেশিন লার্নিং কেনো শিখবো?](machine-learning/why-learn.md)
   * [মেশিন লার্নিং ক্যারিয়ার এবং দক্ষতা](machine-learning/career-skills.md)
-  * [মেশিন লার্নিং কিভাবে শিখবো](machine-learning/how-learn-machine-learning.md)
+  * [মেশিন লার্নিং কিভাবে শিখবো?](machine-learning/how-learn-machine-learning.md)
 * [কৃত্রিম বুদ্ধিমত্তা \(Artificial Intelligence\)](artificial-intelligence.md)
 
