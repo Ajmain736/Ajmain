@@ -7,8 +7,5 @@
   * [মেশিন লার্নিং কেনো শিখবো?](machine-learning/why-learn.md)
   * [মেশিন লার্নিং ক্যারিয়ার এবং দক্ষতা](machine-learning/career-skills.md)
   * [মেশিন লার্নিং কিভাবে শিখবো](machine-learning/how-learn-machine-learning.md)
-* [কৃত্রিম বুদ্ধিমত্তা \(Artificial Intelligence\)](artificial-intelligence/README.md)
-  * [Untitled](artificial-intelligence/introduction.md)
-  * [Untitled](artificial-intelligence/untitled-1.md)
-  * [Untitled](artificial-intelligence/untitled.md)
+* [কৃত্রিম বুদ্ধিমত্তা \(Artificial Intelligence\)](artificial-intelligence.md)
 
