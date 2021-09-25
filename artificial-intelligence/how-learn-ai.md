@@ -11,3 +11,5 @@
 * বিগ ডাটা টুলস \(Spark, HBase, Kafka, HDFS, Hive, Hadoop, MapReduce, Pig\) 
 * ন্যাচারাল ল্যাঙ্গুয়েজ প্রসেসিং টুলস \(spaCy, NLTK\)
 
+![](../.gitbook/assets/ai-v2-img3.jpg)
+

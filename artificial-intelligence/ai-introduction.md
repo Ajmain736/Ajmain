@@ -6,7 +6,7 @@
 
 সুতরাং কৃত্রিম বুদ্ধিমত্তা কম্পিউটার বিজ্ঞানের এমন একটি ক্ষেত্র যেখানে মানুষের বুদ্ধিমত্তা ও চিন্তাশক্তিকে কৃত্রিম উপায়ে প্রযুক্তি নির্ভর যন্ত্রের মাধ্যমে বাস্তবায়ন করা হয়।
 
-![Artificial Intelligence](../.gitbook/assets/blockruption-ai-300h.png)
+![Artificial Intelligence](../.gitbook/assets/hitesh-choudhary-t1paibmtjim-unsplash.jpg)
 
 
 
