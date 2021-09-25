@@ -6,3 +6,5 @@
 
 মেশিন লার্নিং শব্দটা প্রথম ব্যবহার করেন আর্থার স্যামুয়েল ১৯৫৯ সালে। বিল গেটসের একটা বিখ্যাত উক্তি রয়েছে মেশিন লার্নিং নিয়ে- A breakthrough in machine learning would be worth ten Microsoft.
 
+![Machine Learning](../.gitbook/assets/artificial-intelligence-company-logo-machine-learning-symbol.png)
+
