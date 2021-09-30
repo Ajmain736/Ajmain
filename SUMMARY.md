@@ -19,6 +19,6 @@
   * [ডিপ লার্নিং এর অ্যাপ্লিকেশনসমূহ এবং লাইব্রেরী](deep-learning/undefined.md)
   * [ডিপ লার্নিং ইঞ্জিনিয়ার](deep-learning/undefined-1.md)
   * [ডিপ লার্নিং এর প্রয়োগ](deep-learning/undefined-3.md)
-  * [ডিপ লার্নিং ব্যবহার](deep-learning/undefined-4.md)
+  * [ডিপ লার্নিং এর ব্যবহার](deep-learning/undefined-4.md)
   * [ডিপ লার্নিং এর ক্যারিয়ার](deep-learning/undefined-2.md)
 
