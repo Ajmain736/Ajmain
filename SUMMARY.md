@@ -13,5 +13,12 @@
   * [কৃত্রিম বুদ্ধিমত্তা কিভাবে শিখবো?](artificial-intelligence/how-learn-ai.md)
   * [কৃত্রিম বুদ্ধিমত্তার ক্যারিয়ার এবং দক্ষতা](artificial-intelligence/ai-career-skills.md)
   * [কৃত্রিম বুদ্ধিমত্তার ভবিষ্যৎ](artificial-intelligence/ai-future.md)
-* [ডিপ লার্নিং \(Deep Learning\)](deep-learning.md)
+* [ডিপ লার্নিং \(Deep Learning\)](deep-learning/README.md)
+  * [ডিপ লার্নিং কি?](deep-learning/deep-learning-introduction.md)
+  * [ডিপ লার্নিং এর ইতিহাস?](deep-learning/deep-learning-history.md)
+  * [ডিপ লার্নিং এর অ্যাপ্লিকেশনসমূহ এবং লাইব্রেরী](deep-learning/undefined.md)
+  * [ডিপ লার্নিং ইঞ্জিনিয়ার](deep-learning/undefined-1.md)
+  * [ডিপ লার্নিং এর প্রয়োগ](deep-learning/undefined-3.md)
+  * [ডিপ লার্নিং ব্যবহার](deep-learning/undefined-4.md)
+  * [ডিপ লার্নিং এর ক্যারিয়ার](deep-learning/undefined-2.md)
 
