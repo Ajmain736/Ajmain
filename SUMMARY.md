@@ -21,4 +21,5 @@
   * [ডিপ লার্নিং এর প্রয়োগ](deep-learning/deep-learning-applications.md)
   * [ডিপ লার্নিং এর ব্যবহার](deep-learning/deep-learning-uses.md)
   * [ডিপ লার্নিং এর ক্যারিয়ার](deep-learning/deep-learning-career.md)
+* [ট্র্যাকিং টেক ব্লগ](https://app.gitbook.com/@ajmainrahman/s/trackingtechblog/)
 
